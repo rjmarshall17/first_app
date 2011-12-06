@@ -13,3 +13,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore VI(M) specific files
+*.swp
+*.swo
+*~
+
